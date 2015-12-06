@@ -1,0 +1,13 @@
+Front Page:
+    Page selling the app, with a nice background picture that looks modern. Top corner we will add login/sign up.
+
+Sign Up Page:
+   New page which will contain all the necessary boxes in order to create a user.
+
+Sign In:
+   Will be a javascript popup window which prompt the user to enter uname/password
+
+Signed In Front Page:
+    Left side will be a list of folders of goals, center will be view of the major tree or the calender or resources. 
+    Right side will be list of different views which will change whether calender/tree/resources is in center.
+    Hovering on folder on left side will underline foldername to tell user that that's where they will click. Clicking on the folder fades out old list of folders and pops up list of subfolders in place of older list with a back button. Folders that have subfolders will be a darker color, folders that have no subfolders will be a faded color.  

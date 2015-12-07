@@ -1,5 +1,5 @@
 body {
-	background-color: #c9ffd5;
+	background-color: white;
 	width: 100%;
 }
 
@@ -32,4 +32,12 @@ body {
 	border-radius: 2px;
 	padding: 5px;
 	font-family: 'Roboto Condensed', sans-serif;
+}
+
+#website-goal {
+	width: 60%;
+	color: #2c858d;
+	font-size: 1.2em;
+	margin: auto;
+	margin-top: 30px;
 }

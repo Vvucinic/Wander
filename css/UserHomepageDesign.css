@@ -1,0 +1,35 @@
+body {
+	background-color: #c9ffd5;
+	width: 100%;
+}
+
+.header-container {
+	margin-top: -8px;
+	background-color: #2c858d;
+	display: flex;
+	justify-content: space-between;
+	padding: 10px;
+}
+
+.header-item {
+	color: white;
+	font-family: 'Roboto Condensed';
+	font-size: 20px;
+}
+
+.column1 {
+	background-color: #74ceb7;
+	display: flex;
+	justify-content: space-around;
+	padding: 10px;
+
+}
+
+.items {
+	width: 18%;
+	text-align: center;
+	background-color: #c9ffd5;
+	border-radius: 2px;
+	padding: 5px;
+	font-family: 'Roboto Condensed', sans-serif;
+}

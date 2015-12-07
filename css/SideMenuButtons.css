@@ -1,0 +1,35 @@
+* {
+	box-sizing: border-box;
+}
+
+.with-folders {
+	background-color: rgba(44,133,141, 1.0);
+	margin: auto;
+	border-radius: 5px;
+	padding: 10px;
+	font-size: 20px;
+}
+
+.without-folders {
+	background-color: rgba(44,133,141, 0.1);
+	margin: auto;
+	margin-left: 48%;
+	border-radius: 5px;
+	padding: 10px;
+
+}
+
+
+.container {
+	width: 200px;
+	height: 400px;
+	text-align: center;
+	margin: 1%;
+}
+
+
+/*.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}*/
